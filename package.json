@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/covercheck",
+  "version": "1.0.0",
+  "description": "Check code coverage against thresholds",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/covercheck.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "covercheck": "bin/cli.js"
+  }
+}
