@@ -18,5 +18,9 @@
   },
   "bin": {
     "covercheck": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/covercheck",
+  "bugs": {
+    "url": "https://github.com/idirdev/covercheck/issues"
   }
 }
